@@ -47,7 +47,7 @@ floating_modifier $mod
 
 # #---Basic Bindings---# #
 # start a terminal
-bindsym $mod+Return exec i3-sensible-terminal
+#bindsym $mod+Return exec i3-sensible-terminal
 
 
 bindsym $mod+Shift+Return	exec --no-startup-id samedir
@@ -125,14 +125,14 @@ bindsym $mod+Shift+b		floating toggle; sticky toggle; exec --no-startup-id hover
 bindsym $mod+Shift+n		floating toggle; sticky toggle; exec --no-startup-id hover right
 
 # reload the configuration file
-bindsym $mod+Shift+c reload
+#bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 #bindsym $mod+Shift+R restart
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+#bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec dmenu_run
+#bindsym $mod+d exec dmenu_run
 
 # #---Workspace Bindings---# #
 bindsym $mod+Home		workspace $ws1

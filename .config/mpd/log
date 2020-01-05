@@ -1,0 +1,63 @@
+Jan 05 22:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 05 22:29 : exception: Failed to access /home/juliano/Music: No such file or directory
+Jan 05 22:29 : exception: Failed to open '/home/juliano/.config/mpd/state': No such file or directory
+Jan 05 22:29 : exception: inotify_add_watch() has failed: No such file or directory
+Jan 05 22:29 : client: [0] opened from 127.0.0.1:34302
+Jan 05 22:29 : client: [1] opened from 127.0.0.1:34304
+Jan 05 22:29 : client: [1] closed
+Jan 05 22:29 : client: [2] opened from 127.0.0.1:34310
+Jan 05 22:29 : client: [2] closed
+Jan 05 17:41 : client: [3] opened from 127.0.0.1:34594
+Jan 05 17:41 : exception: Failed to open /home/juliano/.config/mpd/playlists: No such file or directory
+Jan 05 17:41 : client: [3] closed
+Jan 05 17:47 : client: [4] opened from 127.0.0.1:34620
+Jan 05 17:49 : client: [4] closed
+Jan 05 17:49 : client: [0] closed
+Jan 05 17:49 : client: [5] opened from 127.0.0.1:34626
+Jan 05 17:49 : client: [6] opened from 127.0.0.1:34630
+Jan 05 17:49 : client: [6] closed
+Jan 05 17:49 : client: [7] opened from 127.0.0.1:34636
+Jan 05 17:49 : client: [7] closed
+Jan 05 17:49 : client: [8] opened from 127.0.0.1:34642
+Jan 05 17:52 : client: [9] opened from 127.0.0.1:34646
+Jan 05 17:52 : client: [5] closed
+Jan 05 17:52 : client: [9] closed
+Jan 05 17:52 : client: [10] opened from 127.0.0.1:34650
+Jan 05 17:52 : client: [11] opened from 127.0.0.1:34654
+Jan 05 17:52 : client: [11] closed
+Jan 05 17:52 : client: [12] opened from 127.0.0.1:34658
+Jan 05 17:52 : client: [12] closed
+Jan 05 17:52 : update: added /HVDES - Stand Alone Complex (Full EP)-apkQHJ0Xaqo.m4a
+Jan 05 17:52 : client: [10] closed
+Jan 05 17:52 : client: [13] opened from 127.0.0.1:34662
+Jan 05 17:52 : client: [14] opened from 127.0.0.1:34666
+Jan 05 17:52 : client: [14] closed
+Jan 05 17:52 : client: [15] opened from 127.0.0.1:34670
+Jan 05 17:52 : client: [15] closed
+Jan 05 17:53 : client: [13] closed
+Jan 05 17:53 : client: [16] opened from 127.0.0.1:34674
+Jan 05 17:53 : client: [17] opened from 127.0.0.1:34678
+Jan 05 17:53 : client: [18] opened from 127.0.0.1:34682
+Jan 05 17:53 : client: [17] closed
+Jan 05 17:53 : client: [18] closed
+Jan 05 17:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 05 17:53 : client: [16] closed
+Jan 05 17:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 05 17:53 : client: [19] opened from 127.0.0.1:34686
+Jan 05 17:53 : client: [20] opened from 127.0.0.1:34690
+Jan 05 17:53 : client: [21] opened from 127.0.0.1:34694
+Jan 05 17:53 : client: [21] closed
+Jan 05 17:53 : client: [20] closed
+Jan 05 17:58 : player: played "HVDES - Stand Alone Complex (Full EP)-apkQHJ0Xaqo.m4a"
+Jan 05 17:58 : client: [19] closed
+Jan 05 17:58 : client: [22] opened from 127.0.0.1:34700
+Jan 05 17:58 : client: [23] opened from 127.0.0.1:34704
+Jan 05 17:58 : client: [23] closed
+Jan 05 17:58 : client: [24] opened from 127.0.0.1:34708
+Jan 05 17:58 : client: [24] closed
+Jan 05 17:58 : client: [22] closed
+Jan 05 17:58 : client: [25] opened from 127.0.0.1:34712
+Jan 05 17:58 : client: [26] opened from 127.0.0.1:34716
+Jan 05 17:58 : client: [27] opened from 127.0.0.1:34720
+Jan 05 17:58 : client: [26] closed
+Jan 05 17:58 : client: [27] closed
